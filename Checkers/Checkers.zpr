@@ -17,11 +17,11 @@ current_source=main.cpp
 path_char=\
 [source]
 path=main.cpp
-cursor=155:22
+cursor=3:19
 open=true
 [source]
 path=damas.cpp
-cursor=232:3
+cursor=214:6
 open=true
 [config]
 name=Debug_Linux
